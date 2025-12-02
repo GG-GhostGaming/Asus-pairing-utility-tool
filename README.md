@@ -66,6 +66,8 @@ In the case where the peripheral has not been detected, you can usually resolve 
 
 **(Supposedly there's a headset too, don't know which one I haven't checked/tested yet.)**
 
-## Disclaimer:
+## Disclaimer(s):
 
 This utility is originally from ASUS
+
+ASUS could probably push a firmware update to prevent this utility from working in the future.
