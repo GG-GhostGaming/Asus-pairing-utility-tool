@@ -70,4 +70,4 @@ In the case where the peripheral has not been detected, you can usually resolve 
 
 This utility is originally from ASUS
 
-ASUS could probably push a firmware update to prevent this utility from working in the future.
+ASUS could probably push a firmware update to prevent this utility from working in the future. (It is working on tested devices as of 12/02/2025.)
