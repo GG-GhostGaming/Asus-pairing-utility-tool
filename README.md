@@ -32,4 +32,4 @@ You can use this utility to pair an ASUS ROG/TUF mouse or keyboard with a separa
 * ROG STRIX SCOPE NX WIRELESS DELUXE
 * ROG AZOTH
 
-## **(Supposedly there's a headset too don't know which one, haven't checked yet.)**
+**(Supposedly there's a headset too don't know which one, haven't checked/tested yet.)**
