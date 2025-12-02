@@ -52,7 +52,7 @@ In the case where the peripheral has not been detected, you can usually resolve 
 * ROG GLADIUS II WIRELESS
 * ASUS TX GAMING MOUSE
 * ROG KERIS WIRELESS EVA EDITION
-* ROG CHAKRAM X [Tested Working]
+* ROG CHAKRAM X { *ROG CHAKRAM X ORIGIN* } [Tested Working]  
 * ROG KERIS WIRELESS AIMPOINT
 * ROG GLADIUS III WIRELESS AIMPOINT
 * ROG HARPE ACE AIM LAB EDITION
