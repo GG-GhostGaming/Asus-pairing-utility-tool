@@ -1,5 +1,5 @@
 
-# ASUS pairing utility for ROG and TUF devices
+# ASUS OEM pairing utility for ROG and TUF devices
 
 You can use this utility to pair an ASUS ROG/TUF mouse or keyboard with a separately obtained OEM dongle (from eBay, Aliexpress, etc.). This is useful if you broke/lost your original dongle or bought a product second-hand that didn't include one.
 
